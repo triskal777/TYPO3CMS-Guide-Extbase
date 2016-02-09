@@ -88,6 +88,8 @@ Add a new property of type *String* to the new domain model, named â€œcategoryâ€
 
 You can now drag a line from the category property of the model *Product* to the model *Category*
 
+Finally, save your extension by clicking on the Save-Button in the Footer of the Page.
+
 .. figure:: Images/Domainmodelling.jpg
    :alt: Domainmodelling
    :width: 700
